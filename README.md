@@ -1,4 +1,4 @@
-# Figma + React + Typscript+ React-Sweet-State + Webpack + SASS + ESlint + Modd
+# Figma + React + Typescript+ React-Sweet-State + Webpack + SASS + ESlint + Modd
 
 This boilerplate aims to help developers bootstrap a Figma plugin project and start coding in a jiffy.
 
