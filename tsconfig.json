@@ -11,6 +11,8 @@
       "@store/*": ["ui/sweet-state/*"],
       "@assets/*": ["assets/*"],
       "@components/*": ["ui/components/*"]
-    }
+    },
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   }
 }
