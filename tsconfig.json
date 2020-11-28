@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6", "dom", "es2017"],
+    "jsx": "react",
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"],
+      "@store/*": ["ui/sweet-state/*"],
+      "@assets/*": ["assets/*"],
+      "@components/*": ["ui/components/*"]
+    }
+  }
+}
